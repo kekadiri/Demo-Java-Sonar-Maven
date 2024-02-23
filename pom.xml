@@ -75,7 +75,6 @@
                 </sonar.host.url>
             </properties>
         </profile>
-  <profiles>
     <profile>
       <id>coverage</id>
       <activation>
