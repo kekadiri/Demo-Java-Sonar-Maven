@@ -73,7 +73,8 @@
                 <sonar.host.url>
                     http://18.204.217.166:9000
                 </sonar.host.url>
-            </properties>
+    <sonar.login>squ_209ddf9594c854612ea03d13b06f8cfc411f6b6f</sonar.login>
+  </properties>
         </profile>
     <profile>
       <id>coverage</id>
